@@ -1,0 +1,10 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: RGB(0, 84, 162);
+}
+.logo{
+    height: 200px;
+    width: 240px;
+}
