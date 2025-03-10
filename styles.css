@@ -1,20 +1,11 @@
-<<<<<<< HEAD
 .title{
     display: flex;
     align-items: center;
     justify-content: space-around;
-=======
-.nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    background-color: RGB(0, 84, 162);
->>>>>>> c85b8c68f6e2eb5c02fca29b726f8d0283a82133
 }
 .logo{
     height: 200px;
     width: 240px;
-<<<<<<< HEAD
 }
 .navbar{
     display: flex;
@@ -30,6 +21,4 @@
     border: 4px;
     border-color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-=======
->>>>>>> c85b8c68f6e2eb5c02fca29b726f8d0283a82133
 }
