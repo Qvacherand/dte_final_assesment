@@ -19,8 +19,10 @@
     font-size: 40px;
     font-weight: 100;
     border: 4px;
+    color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .navbutton:hover{
-    color: rgb(190, 13, 27);
+    color: rgb(214, 65, 78);
+    
 }
