@@ -23,6 +23,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .navbutton:hover{
-    color: rgb(214, 65, 78);
+    color: rgb(206, 228, 233);
+    text-decoration: underline;
     
 }
