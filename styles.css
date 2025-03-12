@@ -19,6 +19,8 @@
     font-size: 40px;
     font-weight: 100;
     border: 4px;
+    margin-left: 1%;
+    margin-right: 1%;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -26,4 +28,14 @@
     color: rgb(206, 228, 233);
     text-decoration: underline;
     
+}
+.textTitlenav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(0, 0, 0);
+
+}
+.textTitle{
+color: white;
 }
