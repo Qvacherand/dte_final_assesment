@@ -113,7 +113,7 @@
 
 
 
-
+/* Title of main page text  */
  .textTitlenav{
     display: flex;
     align-items: center;
@@ -121,9 +121,11 @@
     background-color: rgb(0, 0, 0);
  
  }
+ /* Title of main page text  */
  .textTitle{
  color: white;
  }
+  /* Main page text  */
  .bodyparagraph{
     display: flex;
     flex-direction: column;
@@ -131,18 +133,15 @@
   text-align: center;
   margin-top: 2%;
  }
+/* Main page text  */
  .HomeParagraph{
   display: flex;
   align-items: center; 
   text-align: center;
   line-height: 1.8;
  }
- .footer{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    background-color: rgb(0, 84, 162);
-   
- }
+
+
+
  
  
