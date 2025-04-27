@@ -143,5 +143,62 @@
 
 
 
+ /* Staff Page*/
+
+
+/* Container for the entire staff page  */
+.staff-page-container {
+    width: 80%; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+
+/* Section titles */
+.staff-section-title {
+    text-align: center; 
+    margin-bottom: 20px; 
+    font-size: 2rem; 
+}
+
+/* Container for the teacher profiles group */
+.staff-teachers-container {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+}
+
+/* Individual teacher profile box */
+.staff-teacher-profile {
+    text-align: center; 
+    margin: 10px;
+    width: 180px; 
+    
+}
+
+/* Teacher image */
+.staff-teacher-profile img {
+    width: 100%; 
+    height: auto;
+    border-radius: 8px; 
+}
+/* teacher's name */
+.staff-teacher-profile p {
+    margin-top: 10px; 
+    font-weight: bold; 
+    background-color: rgb(0, 84, 162);
+    color: #f4f4f4;
+    border-radius: 8px;
+}
+
+/* DTE teachers */
+.dte-teachers-section {
+    margin-bottom: 40px; 
+    
+}
+
+/* Geography teachers */
+.geography-teachers-section {
+    margin-bottom: 40px; 
+}
  
  
