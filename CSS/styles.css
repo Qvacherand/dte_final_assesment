@@ -1,3 +1,8 @@
+/* Body to change overall font  */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 /* Header flexbox  */
 .title{
     display: flex;
@@ -96,6 +101,7 @@
     font-weight: bold;
     color: #333;
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 /* Sports title section sub heading  */
 .content {
@@ -109,6 +115,7 @@
     margin-bottom: 2%;
     margin-top: 1%;
     padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
 }
 
 
@@ -124,6 +131,7 @@
  /* Title of main page text  */
  .textTitle{
  color: white;
+ font-family: 'Roboto', sans-serif;
  }
   /* Main page text  */
  .bodyparagraph{
@@ -132,6 +140,7 @@
   align-items: center; 
   text-align: center;
   margin-top: 2%;
+  font-family: 'Roboto', sans-serif;
  }
 /* Main page text  */
  .HomeParagraph{
@@ -158,6 +167,7 @@
     text-align: center; 
     margin-bottom: 20px; 
     font-size: 2rem; 
+    font-family: 'Roboto', sans-serif;
 }
 
 /* Container for the teacher profiles group */
@@ -188,6 +198,7 @@
     background-color: rgb(0, 84, 162);
     color: #f4f4f4;
     border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
 }
 
 /* DTE teachers */
@@ -201,4 +212,51 @@
     margin-bottom: 40px; 
 }
  
- 
+
+ /* Footer */
+
+ /* Overall Background Of Footer */
+footer {
+    background-color: rgb(0, 84, 162); 
+    color: white; /* White text in the footer */
+    padding: 20px 0;
+}
+ /* Allignment of footer */
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.footer-column {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.footer-column h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.footer-column p {
+    margin-bottom: 10px;
+}
+
+.footer-column ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+}
+
+.footer-column ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+    text-decoration: underline;
+}
